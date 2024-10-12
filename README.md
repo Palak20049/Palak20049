@@ -1,3 +1,6 @@
+
+![232639433-cb0aea21-66f0-4508-a771-85e2089c5a87](https://github.com/user-attachments/assets/3072832c-2fa2-4e82-90a1-115b9abb352d)
+
 <h1 align="center">Hi 👋, I'm Palak Modi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
